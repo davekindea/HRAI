@@ -1,5 +1,7 @@
 # Visualization utilities
+# Updated import
 import matplotlib.pyplot as plt
+# Updated import
 import seaborn as sns
 
 # Updated function
