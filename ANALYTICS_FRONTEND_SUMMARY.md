@@ -240,6 +240,7 @@ Comprehensive service layer with organized API calls:
 
 ### Basic Implementation
 ```jsx
+# Updated import
 import { Analytics } from '../../pages/Analytics/Analytics';
 
 // Use in your router
@@ -248,6 +249,7 @@ import { Analytics } from '../../pages/Analytics/Analytics';
 
 ### Individual Components
 ```jsx
+# Updated import
 import { HRDashboard, MetricCard } from '../../components/Analytics';
 
 // Use components independently
