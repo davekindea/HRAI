@@ -278,3 +278,5 @@ Pre-built templates for:
 ---
 
 This comprehensive onboarding and offers system transforms the final stages of recruitment into a streamlined, compliant, and highly automated process that ensures consistent new hire experiences while maintaining full legal compliance and detailed audit trails.
+
+# Last updated: 2025-12-11
