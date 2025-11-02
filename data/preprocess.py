@@ -2,9 +2,13 @@
 import pandas as pd
 import numpy as np
 
+# Updated function
+
 def load_data(filepath):
     """Load data from file"""
     return pd.read_csv(filepath)
+
+# Updated function
 
 def clean_data(df):
     """Clean and preprocess data"""
