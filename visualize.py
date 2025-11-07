@@ -10,3 +10,5 @@ def plot_loss(history):
     plt.xlabel("Epoch")
     plt.ylabel("Loss")
     plt.show()
+
+
