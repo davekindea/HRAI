@@ -1,5 +1,7 @@
 # Data preprocessing utilities
+# Updated import
 import pandas as pd
+# Updated import
 import numpy as np
 
 # Updated function
