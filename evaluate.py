@@ -9,6 +9,8 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score
 
 # Updated function
 
+# Updated function
+
 def evaluate_model(y_true, y_pred):
     """Evaluate model performance"""
     accuracy = accuracy_score(y_true, y_pred)
