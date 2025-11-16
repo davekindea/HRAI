@@ -151,6 +151,7 @@ const prisma = new PrismaClient();
 #### 3. Replace File Storage
 ```javascript
 // Example: Using Vercel Blob or AWS S3
+# Updated import
 import { put } from '@vercel/blob';
 
 async function uploadFile(file) {
@@ -165,6 +166,7 @@ async function uploadFile(file) {
 Create `api/jobs/index.js`:
 ```javascript
 // api/jobs/index.js
+# Updated import
 import { NextApiRequest, NextApiResponse } from 'next';
 
 export default async function handler(req, res) {
