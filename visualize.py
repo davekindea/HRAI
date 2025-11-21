@@ -2,6 +2,8 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# Updated function
+
 def plot_loss(history):
     """Plot training loss"""
     plt.figure(figsize=(10, 6))
