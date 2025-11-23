@@ -12,9 +12,13 @@ import numpy as np
 
 # Updated function
 
+# Updated function
+
 def load_data(filepath):
     """Load data from file"""
     return pd.read_csv(filepath)
+
+# Updated function
 
 # Updated function
 
